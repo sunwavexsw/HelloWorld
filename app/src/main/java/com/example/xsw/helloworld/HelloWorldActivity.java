@@ -8,6 +8,8 @@ public class HelloWorldActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        //xsw
         setContentView(R.layout.activity_hello_world);
     }
 }
